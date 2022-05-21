@@ -8,7 +8,8 @@
 -  📧 Email Me: shivangeerajput185@gmail.com
 
 ### Languages & Tools
-## Python
+
+<img src="https://user-images.githubusercontent.com/100294737/169647177-60fdfb93-f06b-4726-92f5-88230a328fbd.png" height="30">
 
 
 
