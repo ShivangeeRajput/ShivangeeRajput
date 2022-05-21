@@ -7,4 +7,9 @@
 - 😄 Pronouns: She/Her
 -  📧 Email Me: shivangeerajput185@gmail.com
 
+### Languages & Tools
+## Python
+<code><img  height="20" src="https://user-images.githubusercontent.com/and.png></code>
+
+
  ### Show some ❤️ by starring  some of the repositories !
