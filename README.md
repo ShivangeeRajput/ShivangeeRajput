@@ -10,10 +10,10 @@
 ![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 
-## **Tech Toolbox 🧰**<br>
+## **Tech Stack 💻**<br>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
@@ -21,7 +21,11 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black " alt="alt"/> </a> 
+<a  target="_blank"> <img src="https://img.shields.io/badge/Flutter-%2300C4CC.svg?&style=for-the-badge&logo=Flutter&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank"> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black " alt="alt"/> </a>
+<a  target="_blank">	             <img src="https://img.shields.io/badge/Googlecloud-%2300C4CC.svg?&style=for-the-badge&logo=Googlecloud&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank">		     <img src="https://img.shields.io/badge/AWS-%2300C4CC.svg?&style=for-the-badge&logo=AWS&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank">		     <img src="https://img.shields.io/badge/Azure-%2300C4CC.svg?&style=for-the-badge&logo=Azure&logoColor=white " alt="alt"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
