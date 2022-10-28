@@ -6,10 +6,6 @@
 
 
 
-###  Watch my Contribution Graph get eaten by the snake 🥳
-![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
-
-
 ## **Tech Stack 💻**<br>
 
 <p align='center'>
