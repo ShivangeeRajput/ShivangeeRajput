@@ -32,6 +32,7 @@
 <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://Turtle.org/" target="_blank"> <img src="https://img.shields.io/badge/Turtle-777BB4?style=for-the-badge&logo=Turtle&logoColor=white" alt="Turtle"/></a>
+<a href="https://Opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/opencv-777BB4?style=for-the-badge&logo=Opencv&logoColor=white" alt="Turtle"/></a>
 
 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white " alt="alt"/> </a> 
@@ -43,8 +44,9 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Opencv-%2300C4CC.svg?&style=for-the-badge&logo=Opencv&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " alt="alt"/> </a>
+<a href="https://Tkinter.org/" target="_blank"> <img src="https://img.shields.io/badge/Tkinter-777BB4?style=for-the-badge&logo=Tkinter&logoColor=white" alt="Turtle"/></a>
+
 <a  target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green " alt="alt"/> </a> 
 <a  target="_blank">  <img src="https://img.shields.io/badge/Photoshop-092E20?style=for-the-badge&logo=photoshop&logoColor=red " alt="alt"/> </a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white " alt="alt"/> </a> 
