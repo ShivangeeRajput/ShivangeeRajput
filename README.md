@@ -48,6 +48,8 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " alt="alt"/> </a>
+	<a  target="_blank"> <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=Linux&logoColor=white " alt="alt"/> </a>
+	
 <a href="https://Tkinter.org/" target="_blank"> <img src="https://img.shields.io/badge/Tkinter-777BB4?style=for-the-badge&logo=Tkinter&logoColor=white" alt="Turtle"/></a>
 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green " alt="alt"/> </a> 
