@@ -19,7 +19,10 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Flutter-%2300C4CC.svg?&style=for-the-badge&logo=Flutter&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black " alt="alt"/> </a>
+	<a  target="_blank">		     <img src="https://img.shields.io/badge/dart-%2300C4CC.svg?&style=for-the-badge&logo=dart&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank">	             <img src="https://img.shields.io/badge/Googlecloud-%2300C4CC.svg?&style=for-the-badge&logo=Googlecloud&logoColor=white " alt="alt"/> </a> 
+	
+	
 <a  target="_blank">		     <img src="https://img.shields.io/badge/AWS-%2300C4CC.svg?&style=for-the-badge&logo=AWS&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank">		     <img src="https://img.shields.io/badge/Azure-%2300C4CC.svg?&style=for-the-badge&logo=Azure&logoColor=white " alt="alt"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
