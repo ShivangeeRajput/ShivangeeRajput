@@ -20,6 +20,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a  target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white " alt="alt"/> </a> 
+<a  target="_blank">	             <img src="https://img.shields.io/badge/Firebase-%2300C4CC.svg?&style=for-the-badge&logo=Firebase&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Flutter-%2300C4CC.svg?&style=for-the-badge&logo=Flutter&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black " alt="alt"/> </a>
 	<a  target="_blank">		     <img src="https://img.shields.io/badge/dart-%2300C4CC.svg?&style=for-the-badge&logo=dart&logoColor=white " alt="alt"/> </a> 
