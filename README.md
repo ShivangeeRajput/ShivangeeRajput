@@ -3,7 +3,7 @@
 - 🌱 Pursuing Bachelor Of Technology in the domain of Information Technology Specialization in Artificial Intelligence & Data Science
 - 🔭 Exploring Android App Development
 -  📧 Email Me: shivangeerajput185@gmail.com
--  Leetcode : https://leetcode.com/Shivangee_Rajput/
+
 
 <div align="center"> 
   <i>Random dev joke for you!</i></br></br>
