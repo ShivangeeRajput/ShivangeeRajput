@@ -1,7 +1,7 @@
 ### Hey there,I'm Shivangee Rajput !👋
 
-- 🌱 Pursuing Bachelor Of Technology in the domain of Information Technology Specialization in Artificial Intelligence & Data Science
-- 🔭 Exploring Android App Development
+Android app developer with experience in managing life and activities lifecycle.
+
 -  📧 Email Me: shivangeerajput185@gmail.com
 
 
