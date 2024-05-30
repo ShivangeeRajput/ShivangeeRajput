@@ -1,14 +1,19 @@
-### Hey there,I'm Shivangee Rajput !👋
-
-Android app developer with experience in managing life and activities lifecycle.
-
--  📧 Email Me: shivangeerajput185@gmail.com
-
+<p align="center">
+<img align="center" alt="coding" width="170" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</p>
 
 <div align="center"> 
-  <i>Random dev joke for you!</i></br></br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Shivangee+Rajput;I'm+an+Android+Developer...;%F0%9F%8C%90+Frontend+Developer;%F0%9F%8E%A8+Graphic+Designer+;Mobile+Enthusiast+;Nice+to+meet+you+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
+
+- 🔭 I’m currently working on [Kavach](https://github.com/ShivangeeRajput/Kavach)
+- 💬 Ask me about **Android, Kotlin, Java**
+
+
+
+
+
 
 ## **Tech Stack 💻**<br>
 
