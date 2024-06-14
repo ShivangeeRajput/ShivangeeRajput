@@ -8,7 +8,7 @@
 </div>
 
 - 🔭 I’m currently working on [Cupid](https://github.com/ShivangeeRajput/Cupid)
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Java, Kotlin, Android**
 
 
 
