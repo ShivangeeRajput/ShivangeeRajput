@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Shivangee+Rajput;I'm+an+Android+Developer...;%F0%9F%8C%90+Frontend+Developer;%F0%9F%8E%A8+Graphic+Designer+;Mobile+Enthusiast+;Nice+to+meet+you+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
 
-- 🔭 I’m currently working on [Gratitude](https://github.com/ShivangeeRajput/Cupid)
+- 🔭 I’m currently working on [Cupid](https://github.com/ShivangeeRajput/Cupid)
 - 💬 Ask me about **Java, Kotlin, Android**
 
 
